@@ -1,0 +1,13 @@
+{
+  "name": "setNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luipee <lipeffcampos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.17.15",
+    "express": "^4.18.2",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.4"
+  }
+}
