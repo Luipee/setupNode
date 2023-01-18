@@ -1,4 +1,4 @@
-import express from 'express';
+import express from 'express'
 import '@controllers/UserControllers'
 
 const app = express()

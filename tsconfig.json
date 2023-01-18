@@ -22,6 +22,9 @@
      "@models/*": ["models/*"],
      "@views/*": ["views/*"],
      "@config/*": ["config/*"]
-    }                            
-  }
+    }                        
+  },
+  "include": [
+    "src/**/*"
+  ]
 }
